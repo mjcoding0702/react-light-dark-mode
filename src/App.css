@@ -1,0 +1,28 @@
+.panel-light {
+  color: #222;
+  background: #fff;
+}
+
+.panel-dark {
+  color: #fff;
+  background: rgb(23, 32, 42);
+} 
+
+.button-dark {
+  background: #8366DB;
+  color: #EEE9FF;
+}
+
+.button-light {
+  background: #EEE9FF;
+  color: #8366DB;
+}
+
+.checkbox-light {
+  background: transparent;
+}
+
+.checkbox-dark {
+  background: #8366DB;
+}
+
